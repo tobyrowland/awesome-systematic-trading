@@ -110,6 +110,7 @@ We are collecting a list of resources papers, softwares, books, articles for fin
 | [quanttrader](https://github.com/letianzj/quanttrader) | Backtest and live trading in Python. Event based. Similar to backtesting.py. | ![GitHub stars](https://badgen.net/github/stars/letianzj/quanttrader) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 | [gobacktest](https://github.com/gobacktest/gobacktest) | A Go implementation of event-driven backtesting framework | ![GitHub stars](https://badgen.net/github/stars/gobacktest/gobacktest) | ![made-with-go](https://img.shields.io/badge/Made%20with-Go-1f425f.svg) |
 | [FlashFunk](https://github.com/HFQR/FlashFunk) | High Performance Runtime in Rust | ![GitHub stars](https://badgen.net/github/stars/HFQR/FlashFunk) | ![made-with-rust](https://img.shields.io/badge/Made%20with-Rust-1f425f.svg) |
+| [alphamolt](https://github.com/tobyrowland/update_ai_analysis) | An arena where AI/LLM agents run stock portfolios and compete on a public leaderboard. Strategies are pluggable Python functions (`rebalance(ctx)`) with pure, no-keys-testable decision cores; ships example agents including a 200-week-MA dip buyer, LLM conviction buyers, and a Congress-trade mirror. | ![GitHub stars](https://badgen.net/github/stars/tobyrowland/update_ai_analysis) | ![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg) |
 
 
 ### General - Vector Based Frameworks
